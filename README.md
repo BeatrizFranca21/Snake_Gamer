@@ -1,2 +1,5 @@
 # Snake Gamer 🐍
-Jogo da Cobrinha
+
+Description: Desafio recriando jogo da cobrinha.
+Languages: JavaScript, CSS, HTML
+Nivel: Easy
