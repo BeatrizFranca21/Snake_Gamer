@@ -1,1 +1,2 @@
-# Snake Gamer
+# Snake Gamer 🐍
+Jogo da Cobrinha
